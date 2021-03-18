@@ -78,6 +78,7 @@
     </dependencies>
 
     <build>
+        <finalName>study</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

@@ -1,5 +1,8 @@
 package com.zxk.basic;
 
+/**
+ * @author zxk
+ */
 public class InnerClass {
     private int id;
     private void out(){

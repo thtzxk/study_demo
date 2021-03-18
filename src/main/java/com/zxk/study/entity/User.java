@@ -5,6 +5,9 @@ import lombok.Data;
 
 import java.util.Date;
 
+/**
+ * @author zxk
+ */
 @Data
 public class User {
     @TableId(type = IdType.ID_WORKER)

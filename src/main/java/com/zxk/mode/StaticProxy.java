@@ -1,5 +1,8 @@
 package com.zxk.mode;
 
+/**
+ * @author zxk
+ */
 public class StaticProxy {
 
     public static void main(String[] args) {

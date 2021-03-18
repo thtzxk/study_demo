@@ -2,6 +2,9 @@ package gui;
 
 import java.awt.*;
 
+/**
+ * @author zxk
+ */
 public class TestFrame2 {
     public static void main(String[] args) {
         MyFrame myFrame1 = new MyFrame(100,200,300,400,Color.BLACK);

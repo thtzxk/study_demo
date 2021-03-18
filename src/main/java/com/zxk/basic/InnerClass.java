@@ -1,8 +1,6 @@
-package demo;
+package com.zxk.basic;
 
-import org.springframework.http.converter.json.GsonBuilderUtils;
-
-public class Demo1 {
+public class InnerClass {
     private int id;
     private void out(){
         System.out.println("外部类方法");
